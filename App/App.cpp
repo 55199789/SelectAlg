@@ -206,6 +206,7 @@ int SGX_CDECL main(int argc, char *argv[])
     /* Initialize the enclave */
     DATATYPE* data = new DATATYPE[dim];
     DATATYPE* data_ = new DATATYPE[dim];
+    DATATYPE* ret = data_+k-1;
     printf("init enclave...\n");
     ocall_gettime();
     if(initialize_enclave() < 0) {
@@ -226,12 +227,12 @@ int SGX_CDECL main(int argc, char *argv[])
     ecall_min_heap(global_eid, data, dim, k);
 
     ocall_gettime();
-    memcpy(data_, data, sizeof(DATATYPE)*dim);
-    std::nth_element(data_, data_+k-1, data_+dim, \
+    memcpy(data_, data, dim*sizeof(DATATYPE));
+    std::nth_element(data, ret, data+dim, \
             std::greater<int>());
     t_nth = ocall_gettime(" ", 1);
     printf("Time of nth outof enclave: %fms\n", t_nth*1000);
-    printf("nth_element: %lld\n", data_[k-1]);
+    printf("nth_element: %lld\n\n\n", *ret);
 destroy_enclave:
     delete[] data;
     delete[] data_;

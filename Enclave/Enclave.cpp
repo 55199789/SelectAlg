@@ -81,6 +81,6 @@ void ecall_min_heap(DATATYPE *data_org, uint32_t dim, uint32_t k) {
 
     printf("Time of min_heap: %fms\n", t_nth_tot*1000);
     printf("nth_element: %lld\n\n", heap[0]);
-    delete[] data;
-    delete[] heap;
+    // delete[] data;
+    // delete[] heap;
 }
