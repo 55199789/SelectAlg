@@ -35,21 +35,12 @@ enclave {
     
     include "user_types.h" /* buffer_t */
     trusted {
-<<<<<<< HEAD
         public void ecall_nth_element([user_check] \
                             DATATYPE *data_org, uint32_t dim, \
                             uint32_t k);
         public void ecall_min_heap([user_check] \
                             DATATYPE *data_org, uint32_t dim, \
                             uint32_t k);
-=======
-        public uint32_t ecall_clear_final_x([user_check] \
-                            DATATYPE *final_x, uint32_t dim);
-        public uint32_t ecall_aggregate([user_check] DATATYPE *dataMat,\
-                     [user_check] DATATYPE *final_x, \
-                     [user_check] uint8_t *keys,
-                      uint32_t clientNum, uint32_t dim);
->>>>>>> c0901671cc5a4d114222e6520b404e68ceadf8c5
     };
     
     untrusted {
