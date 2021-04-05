@@ -98,7 +98,7 @@ else
         App_C_Flags += -DNDEBUG -UEDEBUG -UDEBUG
 endif
 
-App_Cpp_Flags := -std=c++11 $(App_C_Flags) -mavx2 -mfma
+App_Cpp_Flags := -std=c++17 $(App_C_Flags) -mavx2 -mfma
 App_Link_Flags := -L$(SGX_LIBRARY_PATH) -l$(Urts_Library_Name) -lpthread -lssl -lcrypto
 
 ifneq ($(SGX_MODE), HW)
@@ -141,7 +141,7 @@ endif
 
 #Enclave_Cpp_Flags := $(Enclave_C_Flags) -std=c++11 -nostdinc++ 
 
-Enclave_Cpp_Flags := $(Enclave_C_Flags) -std=c++11 -nostdinc++ -mavx2 -mfma
+Enclave_Cpp_Flags := $(Enclave_C_Flags) -std=c++17 -nostdinc++ -mavx2 -mfma
 #Enclave_Cpp_Flags := $(Enclave_C_Flags) -std=c++11 -nostdinc++ -mavx2 -mfma
 
 

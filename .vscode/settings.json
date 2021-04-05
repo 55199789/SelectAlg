@@ -2,6 +2,9 @@
     "files.associations": {
         "chrono": "cpp",
         "new": "cpp",
-        "random": "cpp"
+        "random": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp"
     }
 }
