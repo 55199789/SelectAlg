@@ -1,0 +1,30 @@
+init enclave...
+[33m[INFO] Create Enclave: 7812.429519ms[0m
+sizeof data: 0.381470 MB
+
+Time of nth_element: 2.502209ms
+nth_element: 2127343449
+
+Loaded Dim: 99000
+Time of min_heap: 1.203958ms
+nth_element: 2127343449
+
+Time of nth outof enclave: 1.177996ms
+nth_element: 1588494890
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7792.017616ms[0m
+sizeof data: 0.381470 MB
+
+Time of nth_element: 2.805049ms
+nth_element: 2125262701
+
+Loaded Dim: 99000
+Time of min_heap: 1.204572ms
+nth_element: 2125262701
+
+Time of nth outof enclave: 2.408443ms
+nth_element: 196798994
+
+

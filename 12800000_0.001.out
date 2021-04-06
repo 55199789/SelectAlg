@@ -1,0 +1,1500 @@
+init enclave...
+[33m[INFO] Create Enclave: 7886.896609ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 389.216979ms
+nth_element: 2145328343
+
+Loaded Dim: 12787200
+Time of min_heap: 88.966291ms
+nth_element: 2145328343
+
+Time of nth outof enclave: 291.988323ms
+nth_element: 203694429
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7854.963959ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 359.328481ms
+nth_element: 2145355154
+
+Loaded Dim: 12787200
+Time of min_heap: 89.114310ms
+nth_element: 2145355154
+
+Time of nth outof enclave: 104.497516ms
+nth_element: 252972859
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7885.497239ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 292.442667ms
+nth_element: 2145319707
+
+Loaded Dim: 12787200
+Time of min_heap: 89.377794ms
+nth_element: 2145319707
+
+Time of nth outof enclave: 189.154096ms
+nth_element: 575874921
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7863.385619ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 263.895786ms
+nth_element: 2145342156
+
+Loaded Dim: 12787200
+Time of min_heap: 89.448879ms
+nth_element: 2145342156
+
+Time of nth outof enclave: 117.617163ms
+nth_element: 2113628172
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7830.871362ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 314.343894ms
+nth_element: 2145345594
+
+Loaded Dim: 12787200
+Time of min_heap: 91.027729ms
+nth_element: 2145345594
+
+Time of nth outof enclave: 184.360777ms
+nth_element: 1681572731
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7822.948662ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 427.700529ms
+nth_element: 2145356924
+
+Loaded Dim: 12787200
+Time of min_heap: 89.575755ms
+nth_element: 2145356924
+
+Time of nth outof enclave: 364.258733ms
+nth_element: 1314072444
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7865.183819ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 386.444110ms
+nth_element: 2145329621
+
+Loaded Dim: 12787200
+Time of min_heap: 89.900113ms
+nth_element: 2145329621
+
+Time of nth outof enclave: 205.935963ms
+nth_element: 211589542
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7878.384686ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 371.653092ms
+nth_element: 2145362389
+
+Loaded Dim: 12787200
+Time of min_heap: 89.016450ms
+nth_element: 2145362389
+
+Time of nth outof enclave: 272.790678ms
+nth_element: 981828348
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7852.556993ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 322.704628ms
+nth_element: 2145343663
+
+Loaded Dim: 12787200
+Time of min_heap: 89.362231ms
+nth_element: 2145343663
+
+Time of nth outof enclave: 285.762351ms
+nth_element: 851559251
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7866.360389ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 331.043398ms
+nth_element: 2145283189
+
+Loaded Dim: 12787200
+Time of min_heap: 89.404217ms
+nth_element: 2145283189
+
+Time of nth outof enclave: 205.847877ms
+nth_element: 529475424
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7870.143399ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 350.851544ms
+nth_element: 2145333928
+
+Loaded Dim: 12787200
+Time of min_heap: 89.603147ms
+nth_element: 2145333928
+
+Time of nth outof enclave: 247.737151ms
+nth_element: 174722273
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7835.403322ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 344.479774ms
+nth_element: 2145369253
+
+Loaded Dim: 12787200
+Time of min_heap: 89.509818ms
+nth_element: 2145369253
+
+Time of nth outof enclave: 243.792689ms
+nth_element: 188151835
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7829.747755ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 382.978197ms
+nth_element: 2145324152
+
+Loaded Dim: 12787200
+Time of min_heap: 89.621681ms
+nth_element: 2145324152
+
+Time of nth outof enclave: 264.177682ms
+nth_element: 1618655554
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7858.580535ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 318.192202ms
+nth_element: 2145349221
+
+Loaded Dim: 12787200
+Time of min_heap: 89.468515ms
+nth_element: 2145349221
+
+Time of nth outof enclave: 256.175861ms
+nth_element: 184440689
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7825.143029ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 314.513718ms
+nth_element: 2145337122
+
+Loaded Dim: 12787200
+Time of min_heap: 89.559854ms
+nth_element: 2145337122
+
+Time of nth outof enclave: 309.486154ms
+nth_element: 1496421725
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7844.684553ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 362.745858ms
+nth_element: 2145345409
+
+Loaded Dim: 12787200
+Time of min_heap: 89.572478ms
+nth_element: 2145345409
+
+Time of nth outof enclave: 306.375473ms
+nth_element: 1762200065
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7874.410138ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 383.946860ms
+nth_element: 2145346169
+
+Loaded Dim: 12787200
+Time of min_heap: 88.855627ms
+nth_element: 2145346169
+
+Time of nth outof enclave: 289.463299ms
+nth_element: 1078668148
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7817.099119ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 291.693240ms
+nth_element: 2145330948
+
+Loaded Dim: 12787200
+Time of min_heap: 89.975656ms
+nth_element: 2145330948
+
+Time of nth outof enclave: 163.265865ms
+nth_element: 393718789
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7849.891292ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 373.839724ms
+nth_element: 2145312241
+
+Loaded Dim: 12787200
+Time of min_heap: 90.316237ms
+nth_element: 2145312241
+
+Time of nth outof enclave: 311.343881ms
+nth_element: 64840874
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7853.182057ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 337.095567ms
+nth_element: 2145341757
+
+Loaded Dim: 12787200
+Time of min_heap: 89.431438ms
+nth_element: 2145341757
+
+Time of nth outof enclave: 257.825859ms
+nth_element: 2073518625
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7825.195836ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 378.491064ms
+nth_element: 2145337298
+
+Loaded Dim: 12787200
+Time of min_heap: 89.169090ms
+nth_element: 2145337298
+
+Time of nth outof enclave: 313.252375ms
+nth_element: 513181709
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7848.443999ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 338.316068ms
+nth_element: 2145297775
+
+Loaded Dim: 12787200
+Time of min_heap: 89.329515ms
+nth_element: 2145297775
+
+Time of nth outof enclave: 297.963043ms
+nth_element: 823681291
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7850.890187ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 288.313700ms
+nth_element: 2145356646
+
+Loaded Dim: 12787200
+Time of min_heap: 89.291944ms
+nth_element: 2145356646
+
+Time of nth outof enclave: 237.861735ms
+nth_element: 1679937996
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7842.131037ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 347.536546ms
+nth_element: 2145360628
+
+Loaded Dim: 12787200
+Time of min_heap: 90.290892ms
+nth_element: 2145360628
+
+Time of nth outof enclave: 310.276168ms
+nth_element: 1754673813
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7863.248197ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 342.764672ms
+nth_element: 2145347814
+
+Loaded Dim: 12787200
+Time of min_heap: 89.073636ms
+nth_element: 2145347814
+
+Time of nth outof enclave: 248.672262ms
+nth_element: 112437342
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7877.131330ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 344.769628ms
+nth_element: 2145324677
+
+Loaded Dim: 12787200
+Time of min_heap: 89.246436ms
+nth_element: 2145324677
+
+Time of nth outof enclave: 328.969818ms
+nth_element: 241333058
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7872.516132ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 289.938199ms
+nth_element: 2145346593
+
+Loaded Dim: 12787200
+Time of min_heap: 89.474845ms
+nth_element: 2145346593
+
+Time of nth outof enclave: 164.641881ms
+nth_element: 9897797
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7824.373368ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 319.545627ms
+nth_element: 2145317066
+
+Loaded Dim: 12787200
+Time of min_heap: 89.323776ms
+nth_element: 2145317066
+
+Time of nth outof enclave: 281.048184ms
+nth_element: 88883180
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7849.902335ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 275.683968ms
+nth_element: 2145335690
+
+Loaded Dim: 12787200
+Time of min_heap: 89.213034ms
+nth_element: 2145335690
+
+Time of nth outof enclave: 157.234002ms
+nth_element: 251017881
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7847.947893ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 331.750959ms
+nth_element: 2145316149
+
+Loaded Dim: 12787200
+Time of min_heap: 89.375020ms
+nth_element: 2145316149
+
+Time of nth outof enclave: 140.985697ms
+nth_element: 864591408
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7853.225566ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 313.768976ms
+nth_element: 2145343716
+
+Loaded Dim: 12787200
+Time of min_heap: 89.419196ms
+nth_element: 2145343716
+
+Time of nth outof enclave: 253.550920ms
+nth_element: 482136703
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7920.793057ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 293.245543ms
+nth_element: 2145356481
+
+Loaded Dim: 12787200
+Time of min_heap: 89.369055ms
+nth_element: 2145356481
+
+Time of nth outof enclave: 306.321660ms
+nth_element: 1250628991
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7868.052053ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 427.134698ms
+nth_element: 2145324012
+
+Loaded Dim: 12787200
+Time of min_heap: 89.657038ms
+nth_element: 2145324012
+
+Time of nth outof enclave: 249.706330ms
+nth_element: 18929818
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7841.284623ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 326.706372ms
+nth_element: 2145339890
+
+Loaded Dim: 12787200
+Time of min_heap: 89.430040ms
+nth_element: 2145339890
+
+Time of nth outof enclave: 328.228917ms
+nth_element: 1253909626
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7869.421554ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 328.665224ms
+nth_element: 2145361520
+
+Loaded Dim: 12787200
+Time of min_heap: 89.806271ms
+nth_element: 2145361520
+
+Time of nth outof enclave: 226.775955ms
+nth_element: 1434122094
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7862.903770ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 336.057389ms
+nth_element: 2145331227
+
+Loaded Dim: 12787200
+Time of min_heap: 89.689560ms
+nth_element: 2145331227
+
+Time of nth outof enclave: 350.578810ms
+nth_element: 1629631927
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7843.582988ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 394.529283ms
+nth_element: 2145321765
+
+Loaded Dim: 12787200
+Time of min_heap: 89.381728ms
+nth_element: 2145321765
+
+Time of nth outof enclave: 154.487775ms
+nth_element: 1197554745
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7852.441041ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 458.188966ms
+nth_element: 2145332538
+
+Loaded Dim: 12787200
+Time of min_heap: 89.258093ms
+nth_element: 2145332538
+
+Time of nth outof enclave: 314.763427ms
+nth_element: 1502439175
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7877.214887ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 272.362402ms
+nth_element: 2145330598
+
+Loaded Dim: 12787200
+Time of min_heap: 89.259387ms
+nth_element: 2145330598
+
+Time of nth outof enclave: 143.502336ms
+nth_element: 1066163305
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7830.208980ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 283.739055ms
+nth_element: 2145339610
+
+Loaded Dim: 12787200
+Time of min_heap: 89.024039ms
+nth_element: 2145339610
+
+Time of nth outof enclave: 166.342685ms
+nth_element: 758906281
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7863.643511ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 340.859705ms
+nth_element: 2145328368
+
+Loaded Dim: 12787200
+Time of min_heap: 89.258564ms
+nth_element: 2145328368
+
+Time of nth outof enclave: 341.344779ms
+nth_element: 487877705
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7858.523768ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 350.071877ms
+nth_element: 2145332464
+
+Loaded Dim: 12787200
+Time of min_heap: 89.500328ms
+nth_element: 2145332464
+
+Time of nth outof enclave: 296.299681ms
+nth_element: 1311137306
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7868.031644ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 444.736904ms
+nth_element: 2145338260
+
+Loaded Dim: 12787200
+Time of min_heap: 91.950130ms
+nth_element: 2145338260
+
+Time of nth outof enclave: 343.499602ms
+nth_element: 1108560186
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7873.938326ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 325.668684ms
+nth_element: 2145337002
+
+Loaded Dim: 12787200
+Time of min_heap: 89.380481ms
+nth_element: 2145337002
+
+Time of nth outof enclave: 235.702616ms
+nth_element: 188664815
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7869.564766ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 410.328184ms
+nth_element: 2145346613
+
+Loaded Dim: 12787200
+Time of min_heap: 89.174355ms
+nth_element: 2145346613
+
+Time of nth outof enclave: 296.459365ms
+nth_element: 448826452
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7877.474788ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 393.792537ms
+nth_element: 2145342041
+
+Loaded Dim: 12787200
+Time of min_heap: 89.245726ms
+nth_element: 2145342041
+
+Time of nth outof enclave: 234.120041ms
+nth_element: 1055977460
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7889.819713ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 321.218129ms
+nth_element: 2145316367
+
+Loaded Dim: 12787200
+Time of min_heap: 89.551268ms
+nth_element: 2145316367
+
+Time of nth outof enclave: 111.522392ms
+nth_element: 113368260
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7849.808894ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 301.029078ms
+nth_element: 2145345470
+
+Loaded Dim: 12787200
+Time of min_heap: 89.102600ms
+nth_element: 2145345470
+
+Time of nth outof enclave: 264.460938ms
+nth_element: 1914770760
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7862.730413ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 320.319162ms
+nth_element: 2145287405
+
+Loaded Dim: 12787200
+Time of min_heap: 89.200179ms
+nth_element: 2145287405
+
+Time of nth outof enclave: 233.623343ms
+nth_element: 453742182
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7846.592650ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 388.833978ms
+nth_element: 2145315004
+
+Loaded Dim: 12787200
+Time of min_heap: 89.681566ms
+nth_element: 2145315004
+
+Time of nth outof enclave: 329.646255ms
+nth_element: 1976253820
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7853.269658ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 367.065549ms
+nth_element: 2145315829
+
+Loaded Dim: 12787200
+Time of min_heap: 89.783337ms
+nth_element: 2145315829
+
+Time of nth outof enclave: 399.726199ms
+nth_element: 2087679281
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7862.103946ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 326.413763ms
+nth_element: 2145356860
+
+Loaded Dim: 12787200
+Time of min_heap: 88.969382ms
+nth_element: 2145356860
+
+Time of nth outof enclave: 167.223700ms
+nth_element: 1506469434
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7851.769178ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 382.677913ms
+nth_element: 2145366175
+
+Loaded Dim: 12787200
+Time of min_heap: 89.220372ms
+nth_element: 2145366175
+
+Time of nth outof enclave: 293.367374ms
+nth_element: 488302368
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7851.055623ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 321.428186ms
+nth_element: 2145331534
+
+Loaded Dim: 12787200
+Time of min_heap: 89.012263ms
+nth_element: 2145331534
+
+Time of nth outof enclave: 185.184790ms
+nth_element: 1215998929
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7824.338092ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 324.973816ms
+nth_element: 2145358129
+
+Loaded Dim: 12787200
+Time of min_heap: 89.105257ms
+nth_element: 2145358129
+
+Time of nth outof enclave: 233.660648ms
+nth_element: 1363806063
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7833.751955ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 354.969366ms
+nth_element: 2145322125
+
+Loaded Dim: 12787200
+Time of min_heap: 89.397269ms
+nth_element: 2145322125
+
+Time of nth outof enclave: 252.014416ms
+nth_element: 413234405
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7871.073104ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 414.745674ms
+nth_element: 2145338484
+
+Loaded Dim: 12787200
+Time of min_heap: 89.769204ms
+nth_element: 2145338484
+
+Time of nth outof enclave: 176.719219ms
+nth_element: 765123669
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7892.818148ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 353.849097ms
+nth_element: 2145324384
+
+Loaded Dim: 12787200
+Time of min_heap: 93.402459ms
+nth_element: 2145324384
+
+Time of nth outof enclave: 280.323209ms
+nth_element: 1256656841
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7829.265394ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 306.221674ms
+nth_element: 2145332959
+
+Loaded Dim: 12787200
+Time of min_heap: 89.806627ms
+nth_element: 2145332959
+
+Time of nth outof enclave: 248.860576ms
+nth_element: 688455720
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7861.341223ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 330.800955ms
+nth_element: 2145355877
+
+Loaded Dim: 12787200
+Time of min_heap: 89.117539ms
+nth_element: 2145355877
+
+Time of nth outof enclave: 225.250738ms
+nth_element: 357985778
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7824.877657ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 244.870815ms
+nth_element: 2145329856
+
+Loaded Dim: 12787200
+Time of min_heap: 90.192546ms
+nth_element: 2145329856
+
+Time of nth outof enclave: 103.968978ms
+nth_element: 2076403899
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7864.002357ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 279.319764ms
+nth_element: 2145293984
+
+Loaded Dim: 12787200
+Time of min_heap: 89.898453ms
+nth_element: 2145293984
+
+Time of nth outof enclave: 170.914463ms
+nth_element: 1181302007
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7851.375071ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 347.604204ms
+nth_element: 2145339889
+
+Loaded Dim: 12787200
+Time of min_heap: 89.965807ms
+nth_element: 2145339889
+
+Time of nth outof enclave: 263.712270ms
+nth_element: 1015168624
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7869.552009ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 398.587771ms
+nth_element: 2145364633
+
+Loaded Dim: 12787200
+Time of min_heap: 89.088882ms
+nth_element: 2145364633
+
+Time of nth outof enclave: 346.323119ms
+nth_element: 488872795
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7835.873118ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 332.207784ms
+nth_element: 2145308421
+
+Loaded Dim: 12787200
+Time of min_heap: 89.017818ms
+nth_element: 2145308421
+
+Time of nth outof enclave: 304.055598ms
+nth_element: 1195067059
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7838.872073ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 254.215818ms
+nth_element: 2145353276
+
+Loaded Dim: 12787200
+Time of min_heap: 93.161021ms
+nth_element: 2145353276
+
+Time of nth outof enclave: 127.034782ms
+nth_element: 1851873683
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7833.093173ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 304.090900ms
+nth_element: 2145353019
+
+Loaded Dim: 12787200
+Time of min_heap: 89.108426ms
+nth_element: 2145353019
+
+Time of nth outof enclave: 319.001167ms
+nth_element: 640086844
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7869.948040ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 385.188517ms
+nth_element: 2145320296
+
+Loaded Dim: 12787200
+Time of min_heap: 89.673166ms
+nth_element: 2145320296
+
+Time of nth outof enclave: 193.165071ms
+nth_element: 342045349
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7867.550879ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 342.122108ms
+nth_element: 2145314660
+
+Loaded Dim: 12787200
+Time of min_heap: 89.845940ms
+nth_element: 2145314660
+
+Time of nth outof enclave: 163.420861ms
+nth_element: 1102575974
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7855.274087ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 338.914225ms
+nth_element: 2145328043
+
+Loaded Dim: 12787200
+Time of min_heap: 90.186285ms
+nth_element: 2145328043
+
+Time of nth outof enclave: 297.319403ms
+nth_element: 750004406
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7824.087973ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 357.969029ms
+nth_element: 2145326395
+
+Loaded Dim: 12787200
+Time of min_heap: 89.085524ms
+nth_element: 2145326395
+
+Time of nth outof enclave: 166.518605ms
+nth_element: 1677532200
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7862.620056ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 315.842706ms
+nth_element: 2145348955
+
+Loaded Dim: 12787200
+Time of min_heap: 89.368394ms
+nth_element: 2145348955
+
+Time of nth outof enclave: 331.996580ms
+nth_element: 1963583462
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7839.255732ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 385.918374ms
+nth_element: 2145354889
+
+Loaded Dim: 12787200
+Time of min_heap: 89.380373ms
+nth_element: 2145354889
+
+Time of nth outof enclave: 216.216596ms
+nth_element: 1803829749
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7874.914598ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 324.187185ms
+nth_element: 2145335011
+
+Loaded Dim: 12787200
+Time of min_heap: 89.078668ms
+nth_element: 2145335011
+
+Time of nth outof enclave: 316.577189ms
+nth_element: 852585710
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7915.078183ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 247.552796ms
+nth_element: 2145320043
+
+Loaded Dim: 12787200
+Time of min_heap: 89.580704ms
+nth_element: 2145320043
+
+Time of nth outof enclave: 212.927296ms
+nth_element: 277633902
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7906.298531ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 363.650091ms
+nth_element: 2145340324
+
+Loaded Dim: 12787200
+Time of min_heap: 89.373445ms
+nth_element: 2145340324
+
+Time of nth outof enclave: 296.019565ms
+nth_element: 2065632144
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7857.911704ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 358.258888ms
+nth_element: 2145295416
+
+Loaded Dim: 12787200
+Time of min_heap: 89.321291ms
+nth_element: 2145295416
+
+Time of nth outof enclave: 264.851501ms
+nth_element: 940153235
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7846.827886ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 333.065121ms
+nth_element: 2145333220
+
+Loaded Dim: 12787200
+Time of min_heap: 89.066752ms
+nth_element: 2145333220
+
+Time of nth outof enclave: 290.384761ms
+nth_element: 2122383647
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7857.841597ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 373.934956ms
+nth_element: 2145321586
+
+Loaded Dim: 12787200
+Time of min_heap: 89.427716ms
+nth_element: 2145321586
+
+Time of nth outof enclave: 392.185035ms
+nth_element: 1883369645
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7825.881794ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 340.078024ms
+nth_element: 2145320293
+
+Loaded Dim: 12787200
+Time of min_heap: 89.427408ms
+nth_element: 2145320293
+
+Time of nth outof enclave: 262.563987ms
+nth_element: 607144728
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7845.360208ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 318.127772ms
+nth_element: 2145340039
+
+Loaded Dim: 12787200
+Time of min_heap: 89.497230ms
+nth_element: 2145340039
+
+Time of nth outof enclave: 257.360514ms
+nth_element: 315257881
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7872.869357ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 319.214814ms
+nth_element: 2145294905
+
+Loaded Dim: 12787200
+Time of min_heap: 89.271151ms
+nth_element: 2145294905
+
+Time of nth outof enclave: 178.519576ms
+nth_element: 1316538246
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7920.135771ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 326.948157ms
+nth_element: 2145333016
+
+Loaded Dim: 12787200
+Time of min_heap: 89.374100ms
+nth_element: 2145333016
+
+Time of nth outof enclave: 128.330940ms
+nth_element: 260103165
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7912.430015ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 331.974743ms
+nth_element: 2145373652
+
+Loaded Dim: 12787200
+Time of min_heap: 89.457895ms
+nth_element: 2145373652
+
+Time of nth outof enclave: 259.199912ms
+nth_element: 604671410
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7882.527092ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 374.715790ms
+nth_element: 2145309114
+
+Loaded Dim: 12787200
+Time of min_heap: 90.583953ms
+nth_element: 2145309114
+
+Time of nth outof enclave: 316.790345ms
+nth_element: 831742323
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7844.747602ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 283.972675ms
+nth_element: 2145336511
+
+Loaded Dim: 12787200
+Time of min_heap: 89.323531ms
+nth_element: 2145336511
+
+Time of nth outof enclave: 252.624628ms
+nth_element: 542846439
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7829.646707ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 297.996376ms
+nth_element: 2145360663
+
+Loaded Dim: 12787200
+Time of min_heap: 89.148452ms
+nth_element: 2145360663
+
+Time of nth outof enclave: 233.302356ms
+nth_element: 160210018
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7867.111464ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 366.027452ms
+nth_element: 2145339641
+
+Loaded Dim: 12787200
+Time of min_heap: 89.742281ms
+nth_element: 2145339641
+
+Time of nth outof enclave: 200.541839ms
+nth_element: 797079152
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7849.856764ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 403.431714ms
+nth_element: 2145307466
+
+Loaded Dim: 12787200
+Time of min_heap: 89.071443ms
+nth_element: 2145307466
+
+Time of nth outof enclave: 284.668993ms
+nth_element: 1074687166
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7861.014763ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 349.306779ms
+nth_element: 2145336524
+
+Loaded Dim: 12787200
+Time of min_heap: 89.642021ms
+nth_element: 2145336524
+
+Time of nth outof enclave: 253.894808ms
+nth_element: 77385812
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7852.055862ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 370.223495ms
+nth_element: 2145353291
+
+Loaded Dim: 12787200
+Time of min_heap: 90.659299ms
+nth_element: 2145353291
+
+Time of nth outof enclave: 338.433862ms
+nth_element: 836072792
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7851.745110ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 289.010100ms
+nth_element: 2145357792
+
+Loaded Dim: 12787200
+Time of min_heap: 89.514276ms
+nth_element: 2145357792
+
+Time of nth outof enclave: 192.448658ms
+nth_element: 823673923
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7823.845129ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 358.724367ms
+nth_element: 2145335104
+
+Loaded Dim: 12787200
+Time of min_heap: 89.454713ms
+nth_element: 2145335104
+
+Time of nth outof enclave: 159.373312ms
+nth_element: 1158958844
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7841.655552ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 371.633817ms
+nth_element: 2145350120
+
+Loaded Dim: 12787200
+Time of min_heap: 89.336771ms
+nth_element: 2145350120
+
+Time of nth outof enclave: 247.266307ms
+nth_element: 1651262846
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7860.210623ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 333.583727ms
+nth_element: 2145330682
+
+Loaded Dim: 12787200
+Time of min_heap: 89.473718ms
+nth_element: 2145330682
+
+Time of nth outof enclave: 249.778502ms
+nth_element: 2130175979
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7851.995263ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 353.202338ms
+nth_element: 2145344159
+
+Loaded Dim: 12787200
+Time of min_heap: 89.446591ms
+nth_element: 2145344159
+
+Time of nth outof enclave: 233.329864ms
+nth_element: 1894568347
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7826.839731ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 386.207330ms
+nth_element: 2145307993
+
+Loaded Dim: 12787200
+Time of min_heap: 89.592077ms
+nth_element: 2145307993
+
+Time of nth outof enclave: 245.877764ms
+nth_element: 1622733284
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7875.385417ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 381.534857ms
+nth_element: 2145327357
+
+Loaded Dim: 12787200
+Time of min_heap: 89.449628ms
+nth_element: 2145327357
+
+Time of nth outof enclave: 286.340432ms
+nth_element: 1543325942
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7849.807173ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 345.394850ms
+nth_element: 2145374056
+
+Loaded Dim: 12787200
+Time of min_heap: 88.915186ms
+nth_element: 2145374056
+
+Time of nth outof enclave: 322.622704ms
+nth_element: 1890221772
+
+
+init enclave...
+[33m[INFO] Create Enclave: 7862.600011ms[0m
+sizeof data: 48.828125 MB
+
+Time of nth_element: 369.965422ms
+nth_element: 2145335678
+
+Loaded Dim: 12787200
+Time of min_heap: 88.456453ms
+nth_element: 2145335678
+
+Time of nth outof enclave: 262.411717ms
+nth_element: 1319202123
+
+
