@@ -1,3 +1,6 @@
+#include "Enclave.h"
+#include "Enclave_t.h"
+
 #include "minHeap.h"
 #include <algorithm>
 
