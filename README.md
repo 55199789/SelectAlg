@@ -6,7 +6,7 @@ It compares the CPU time of different selection algorithms:
 ## Prerequisites
 * Download the source code
 ```
-git clone https://github.com/55199789/FYP.git
+git clone https://github.com/55199789/SelectAlg.git
 ```
 ## Compile and Run
 * Enter the following commands
